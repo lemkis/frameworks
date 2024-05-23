@@ -39,4 +39,4 @@ A next step after GraphQL and [Serverless](https://github.com/serverless/serverl
 # H2O
 
 - [github](https://github.com/h2o/h2o/wiki)
-- [examples](https://github.com/h2o/h2o/wiki/Projects-and-Examples-using-libh2o)
+- [examples](https://github.com/h2o/h2o/wiki/Projects-and-Examples-using-libh2o) used by e.g. [silicon](https://github.com/matt-42/silicon) ([what is silicon](https://siliconframework.org/))
