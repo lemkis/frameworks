@@ -30,5 +30,6 @@ This [framework](https://koajs.com/) is very similar to the express (no suprise 
 
 
 # AskQL
-
+A next step after GraphQL and [Serverless](https://github.com/serverless/serverless)
 - [github](https://github.com/CatchTheTornado/askql)
+- [example](https://github.com/YonatanKra/askql-demo)
