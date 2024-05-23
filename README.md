@@ -34,3 +34,9 @@ A next step after GraphQL and [Serverless](https://github.com/serverless/serverl
 - [github](https://github.com/CatchTheTornado/askql)
 - [example](https://github.com/YonatanKra/askql-demo)
 - [playground](https://cli.askql.org/#)
+
+
+# H2O
+
+- [github](https://github.com/h2o/h2o/wiki)
+- [examples](https://github.com/h2o/h2o/wiki/Projects-and-Examples-using-libh2o)
